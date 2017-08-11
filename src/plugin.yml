@@ -1,0 +1,13 @@
+name: ss
+main: com.imyvm.ss.Main
+description: "ss plugin for imyvm Minecraft Server"
+version: 0.1
+depend: [NyaaCore]
+authors: [huangwang]
+database: false
+
+commands:
+  ss:
+    description: The command for imyvm
+    aliases: show
+    usage: "show item"
